@@ -3,11 +3,18 @@
     padding: 100px 64px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .heroLeft {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+
+    width: 593px;
 }
 
+.headshot {
+    width: 700px;
+    height: auto;
+}
