@@ -1,24 +1,40 @@
-import logo from './logo.svg';
+// import Header from './components/header/Header.jsx';
+import Hero from './components/hero/Hero.jsx';
+import Skills from './components/skills/Skills.jsx';
+import biddit from './biddit-project-image.png';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+
+      {/* <Header /> */}
+      <Hero />
+      <Skills />
+
+
+      <section className='finalProjSection'>
+          <p>Featured Project </p>
+          <h2>Final Project</h2>
+          <img src={biddit} alt="Biddit Project" />
+      </section>
+
+      <section className='smallProjSection'>
+          <p>Small Projects</p>
+          <h2>Other Work</h2>
+
+          <div className='calculator'>
+            <h3>Calculator</h3>
+          </div>
+          <div className='toDo'>
+            <h3>To Do List</h3>
+          </div>
+          <div className='instaClone'>
+            <h3>Instagram Clone</h3>
+          </div>
+      </section>
+
+    </>
   );
 }
 

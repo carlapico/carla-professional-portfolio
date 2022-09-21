@@ -1,0 +1,12 @@
+.hero {
+    background-color: #F5FCFF;
+    padding: 100px 64px;
+    display: flex;
+    align-items: center;
+}
+
+.heroLeft {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
