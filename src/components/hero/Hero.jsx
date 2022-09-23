@@ -1,4 +1,4 @@
-import headshot from './floating-headshot.png';
+import headshot from './floating-headshot-carla.png';
 import './hero.css'
 
 export default function Hero() {

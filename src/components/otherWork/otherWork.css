@@ -1,0 +1,38 @@
+
+.smallProj {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.calculatorBox {
+    background-color: #F5FCFF;
+}
+
+.calculatorImg {
+    height: 300px;
+    width: 300px;
+    border-radius: 5%;
+}
+
+.toDoBox {
+    background-color: #F5FCFF;
+}
+
+.toDoImg {
+    height: 300px;
+    width: 300px;
+    border-radius: 5%;
+}
+
+.instaCloneBox {
+    background-color: #F5FCFF;
+}
+
+.instaCloneImg {
+    height: 300px;
+    width: 300px;
+    border-radius: 5%;
+}

@@ -1,0 +1,31 @@
+.skillsRow {
+    display: flex;
+}
+
+.progFundamentals {
+    background-color: #F5FCFF;
+    margin: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.backendEng {
+    background-color: #F5FCFF;
+    margin: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.frontendEng {
+    background-color: #F5FCFF;
+    margin: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.softSkills {
+    background-color: #F5FCFF;
+    margin: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
