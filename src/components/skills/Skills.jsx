@@ -9,24 +9,26 @@ export default function Skills () {
                 <div className="skillsRow">
                     <div className='progFundamentals'>
                     <h3>Programming Fundamentals</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nam debitis totam, rerum aut ad necessitatibus autem. Excepturi minima explicabo laudantium laborum quod esse earum totam soluta! Doloribus, et obcaecati.</p>
+                    <p>Variables | Functions| Data Structures | Algorithms | Problem Solving | Versioning / GIT</p>
                     </div>
                     
                     <div className='backendEng'>
                     <h3>Backend Engineering</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas deserunt nisi commodi, perspiciatis eveniet vero repellendus similique iste asperiores recusandae repudiandae, doloremque, laudantium provident ipsum expedita quis quia velit autem.</p>
+                    <p>Database Design | SQL / NoSQL | CRUD | ORM | REST Principles | HTTP Requests | Agile / Scrum | Package Management | Express | Clean Coding | Dev Ops | AWS / GCP</p>
                     </div>
                     
                     <div className='frontendEng'>
                     <h3>Frontend Engineering</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum cumque veniam dicta nisi in laboriosam officia architecto molestias omnis et voluptatem excepturi quaerat atque, sequi non perspiciatis, quod aperiam autem.</p>
+                    <p>HTML / CSS | Flexbox | DOM and Event Handling | Bootstrap | Accessibility | DRY Principles | SOLID Principles | React | Routing | Hooks | SASS | Branching | Docker | Ant Design | TypeScript | Electron | React Native | Pull Requests | Merging | Python | AI/ML | Automation</p>
                     </div>
                     
                     <div className='softSkills'>
                     <h3>Soft Skills</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dignissimos saepe mollitia illo quaerat consequatur sed molestias corrupti optio quibusdam provident non nemo repudiandae officia fuga quasi, eos vel quod!</p>
+                    <p>Agile and SCRUM Methodologies | Project Management | Organizational Skills | Teamwork | Community Builder | Customer Relationship Management </p>
                     </div>
                 </div>
+
+                
             </section>
         </>
     )
